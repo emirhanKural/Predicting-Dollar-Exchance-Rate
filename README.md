@@ -1,4 +1,4 @@
-# Predictin-Dollar-Exchance-Rate
+# Predicting-Dollar-Exchance-Rate
 
 
 Predicting  dollar exchange rate with Turkish Lira
