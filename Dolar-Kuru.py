@@ -8,7 +8,7 @@ from sklearn import linear_model
 veri = pd.read_csv("2016dolaralis.csv") #Verilerimizi alıyoruz.
 
 x = veri["Gun"].to_frame() #Gün sütununu x'e atıyoruz.
-y = veri["Fiyat"].to_frame() #iFyat sütununu y'ye atıyoruz.
+y = veri["Fiyat"].to_frame() #Fiyat sütununu y'ye atıyoruz.
 
 x = pd.DataFrame(x).values
 y = pd.DataFrame(y).values
